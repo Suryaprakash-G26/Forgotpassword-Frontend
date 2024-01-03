@@ -135,7 +135,7 @@ const Signinuser = () => {
               </div>
               <div className="text-end m-2">
                 Dont have account ?{" "}
-                <Link to="/register" className="text-success hover:underline">
+                <Link to="/" className="text-success hover:underline">
                   Create one{" "}
                 </Link>
               </div>
